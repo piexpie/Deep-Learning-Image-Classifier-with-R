@@ -4,6 +4,6 @@
 
 To read the notebook, RStudio is recommended.
 
-https://www.coursera.org/account/accomplishments/certificate/XNMF9Y85VCQ9
+https://rstudio.com/products/rstudio/download/#download
 
 You would require```R 3.0.1+```
